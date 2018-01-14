@@ -1,0 +1,7 @@
+- name: "Preprint alerts"
+  icon: "twitter"
+  description: "Outbreak Science maintains the Twitter feed <a href='https://twitter.com/outbreaksci'>@outbreaksci</a> to disseminate information on new preprint manuscripts and ProMED posts related infectious disease outbreaks."
+
+- name: "Data collection"
+  icon: "archive"
+  description: "Outbreak Science is working to establish standardized, open access, machine-readable repositories of outbreak data."
