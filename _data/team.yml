@@ -1,0 +1,26 @@
+- name: "Michael Johansson"
+  bio: "Centers for Disease Control and Prevention*"
+  twitter: majohanss
+  webpage: https://scholar.google.com/citations?user=juo8LFQAAAAJ&hl
+  scholar: https://scholar.google.com/citations?user=juo8LFQAAAAJ&hl
+  photo: johansson.jpg
+
+- name: "Nicholas Reich"
+  bio: "University of Massachusettes Amherst"
+  twitter: reichlab
+  webpage: http://reichlab.io/
+  scholar: https://scholar.google.com/citations?user=AQUsdvkAAAAJ&hl
+  photo: reich.jpg
+
+- name: "Lauren Meyers"
+  bio: "University of Texas at Austin"
+  scholar: https://scholar.google.com/citations?user=KKiQaBoAAAAJ
+  webpage: https://www.bio.utexas.edu/research/meyers/
+  photo: meyers.jpg
+
+- name: "Marc Lipstich"
+  bio: "Harvard TH Chan School of Public Health"
+  twitter: mlipsitch
+  scholar: https://scholar.google.com/citations?user=cBEV4DcAAAAJ&hl
+  webpage: https://www.hsph.harvard.edu/marc-lipsitch/
+  photo: lipsitch.jpg
