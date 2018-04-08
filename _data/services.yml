@@ -1,7 +1,14 @@
+- name: "Preprints"
+  icon: "copy"
+  link: "http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002549"
+  description: "Outbreak Science supports the early and open distribution of scientific data, code, and results via preprints: <a href='http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002549'>Preprints: An underutilized mechanism to accelerate outbreak science</a>."
+
 - name: "Preprint alerts"
   icon: "twitter"
+  link: "https://twitter.com/outbreaksci"
   description: "Outbreak Science maintains the Twitter feed <a href='https://twitter.com/outbreaksci'>@outbreaksci</a> to disseminate information on new preprint manuscripts and ProMED posts related infectious disease outbreaks."
 
 - name: "Data collection"
-  icon: "archive"
+  icon: "database"
+  link: ""
   description: "Outbreak Science is working to establish standardized, open access, machine-readable repositories of outbreak data."
