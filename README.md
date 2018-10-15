@@ -1,2 +1,2 @@
 # outbreaksci.github.io
-landing page for Outbreak Science
+Landing page for [Outbreak Science](http://outbreakscience.org).
