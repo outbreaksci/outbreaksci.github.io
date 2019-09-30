@@ -1,0 +1,9 @@
+- name: "Open Outbreak Data"
+  icon: "database"
+  link: ""
+  description: "Outbreak Science is working to establish standardized, open access, machine-readable repositories of outbreak data."
+
+- name: "Blog"
+  icon: "pencil"
+  link: "http://blog.outbreakscience.org"
+  description: "New Outbreak Science projects will be anounced on <a href='http://blog.outbreakscience.org'>our blog</a>."

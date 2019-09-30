@@ -67,7 +67,8 @@
 // Font Mixins
 
 @mixin serif-font {
-  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+//  font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'EB Garamond', Georgia, serif;
 }
 
 @mixin script-font {
@@ -75,10 +76,12 @@
 }
 
 @mixin body-font {
-  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+//  font-family: "Roboto Slab", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'EB Garamond', Georgia, serif;
 }
 
 @mixin heading-font {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+//  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: 'EB Garamond', Georgia, serif;
   text-transform: uppercase;
 }
