@@ -8,7 +8,7 @@
   link: "https://twitter.com/outbreaksci"
   description: "Outbreak Science maintains the Twitter feed <a href='https://twitter.com/outbreaksci'>@outbreaksci</a> to disseminate information on new preprint manuscripts and ProMED posts related infectious disease outbreaks."
 
-- name: "Data collection"
-  icon: "database"
-  link: ""
-  description: "Outbreak Science is working to establish standardized, open access, machine-readable repositories of outbreak data."
+- name: "Rapid Reviews"
+  icon: "check"
+  link: "https://blog.outbreakscience.org/rapid-reviews-for-rapid-outbreak-response/"
+  description: "Outbreak Science is working with <a href='https://twitter.com/prereview_'>PREreview</a> to develop a new tool for <a href='https://blog.outbreakscience.org/rapid-reviews-for-rapid-outbreak-response/'>rapid evaluation of preprints</a> related to outbreaks."
