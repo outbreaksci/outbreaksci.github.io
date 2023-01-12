@@ -3,39 +3,9 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 text-center">
-                <h2 class="section-heading">About</h2>
-                <h3 class="section-subheading text-muted text-justify">Recent epidemics of H1N1 influenza, Middle East respiratory syndrome (MERS), chikungunya, Ebola, and Zika, highlight the global importance of infectious disease outbreaks. The scale, speed, and diversity of these epidemics demand an equally scalable, rapid, and agile scientific response to prevent and control their impact. Outbreak Science, a nonprofit founded in 2016, aims to support open data, open access, and open science in the context of epidemic responses.</h3>
+                <!--<h2 class="section-heading">About</h2>-->
+                <h3 class="section-subheading text-muted text-justify">The SARS-CoV-2 pandemic, like other recent epidemics, highlights the global importance of infectious disease outbreaks. The scale, speed, and diversity of these epidemics demand an equally scalable, rapid, and agile scientific response to prevent and control their impact. Outbreak Science, a nonprofit founded in 2016 to support open data, open access, and open science in the context of epidemic responses, is taking a break while all the outbreak scientists are busy at their day jobs. We are maintaining [preprint]( https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002549) outbreak alerts at <a href='https://twitter.com/outbreaksci'>@outbreaksci</a>.</h3>
             </div>
-        </div>
-        <div class="row text-center">
-          {% for service in site.data.services %}
-            <div class="col-md-4">
-                <span class="fa-stack fa-4x">
-                    <a href="{{ service.link }}" target="_blank">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-{{ service.icon }} fa-stack-1x fa-inverse"></i>
-                  </a>
-                </span>
-                <h4 class="service-heading">{{ service.name }}</h4>
-                <p class="text-muted">{{ service.description }}</p>
-            </div>
-          {% endfor %}
-        </div>
-
-        <div class="row text-center">
-          {% for service in site.data.services2 %}
-            <div class="col-md-4">
-                <span class="fa-stack fa-4x">
-                    <a href="{{ service.link }}" target="_blank">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-{{ service.icon }} fa-stack-1x fa-inverse"></i>
-                  </a>
-                </span>
-                <h4 class="service-heading">{{ service.name }}</h4>
-                <p class="text-muted">{{ service.description }}</p>
-            </div>
-          {% endfor %}
-
         </div>
     </div>
 </section>
